@@ -1,0 +1,10 @@
+{ 
+  "server":"45.76.27.97", 
+  "server_port":25, 
+  "local_address": "127.0.0.1", 
+  "local_port":25, 
+  "password":"smile0086",
+  "timeout":1000, 
+  "method":"aes-256-cfb", 
+  "fast_open": true
+}
